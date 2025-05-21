@@ -3,7 +3,7 @@ OPENAI_API="sk-proj-R2Ue-BHltLwkpJ7Igab0YRhjxdcTvsSEakiI4Lr95Py-bNvFGPBG3SEpY-10
 #Your Google Gemini API key here
 GEMINI_API="AIzaSyAls0ydi7vhOLWeofplzYxa4udiwDsnW6A"
 #Your Youtube data API key here
-YOUTUBE_API=""
+YOUTUBE_API="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IjEifQ.eyJpc3MiOiJuYWRsZXMiLCJpYXQiOiIxNzQ3ODA2NTA5IiwicHVycG9zZSI6ImFwaV9hdXRoZW50aWNhdGlvbiIsInN1YiI6Ijc1OTY5NDMyNjI5YzRiNjRhZWE4MmJkODFhOWViZjk0In0.caO6ldM60nG4_JiWmIW0vvlRsx-CjQXNuSTWfn6Ju4c"
 #Your Weather API key here
 WEATHER_API=""
 #Your CharacterAI API key here
