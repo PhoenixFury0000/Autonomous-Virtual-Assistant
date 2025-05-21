@@ -11,6 +11,6 @@ CHARACTER_AI_API=""
 #Your CharacterID here
 CHARACTER_ID=""
 #Your Character Name here
-CHARACTER_NAME="AVA"
+CHARACTER_NAME="𝚸𝚮𝚯𝚵𝚴𝚰𝚾"
 #Your name here 
-YOUR_NAME="Ronen"
+YOUR_NAME="phoenix"
