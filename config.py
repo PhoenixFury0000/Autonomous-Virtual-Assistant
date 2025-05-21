@@ -1,5 +1,5 @@
 #Your Openai API key here
-OPENAI_API=""
+OPENAI_API="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"
 #Your Google Gemini API key here
 GEMINI_API="AIzaSyAls0ydi7vhOLWeofplzYxa4udiwDsnW6A"
 #Your Youtube data API key here
